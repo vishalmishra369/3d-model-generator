@@ -1,0 +1,7 @@
+pillow
+numpy
+trimesh
+matplotlib
+rembg
+pyglet-1.5.31
+onnxruntime
